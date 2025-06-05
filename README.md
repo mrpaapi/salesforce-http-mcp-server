@@ -12,7 +12,7 @@ A Model Context Protocol (MCP) server for Salesforce integration with LangChain.
 ## Setup
 
 1. **Clone the repository**
-git clone https://github.com/yourusername/salesforce-http-mcp-server.git
+git clone https://github.com/mrpaapi/salesforce-http-mcp-server.git
 cd salesforce-http-mcp-server
 
 2. **Install Dependencies**
